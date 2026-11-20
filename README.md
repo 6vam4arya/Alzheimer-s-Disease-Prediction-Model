@@ -4,13 +4,12 @@ A research notebook that asks one question: **if we give a neural network three 
 
 Everything lives in a single notebook, `computervisionalz-final.ipynb`. It takes raw ADNI files and produces a matched cohort, trained models, comparison experiments and figures.
 
-> **Research use only.** This is not a diagnostic tool. ADNI data are not included in this repository.
+> **Research use only.** This is not a diagnostic tool.
 
 ---
 
 ## The project in one picture
 
-![Architecture]
 <img width="2520" height="1812" alt="image" src="https://github.com/user-attachments/assets/f2b601f0-3c5b-48ff-b3ab-9130c7f65af9" />
 
 
