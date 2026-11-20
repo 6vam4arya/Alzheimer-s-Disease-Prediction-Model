@@ -1,0 +1,3 @@
+PTID,scan_date,image_id,series,nifti,TR,n_vols
+127_S_4604,2025-02-06,I11168206,Axial_HB_rsfMRI__Eyes_Open___MSV22_,work\nifti\127_S_4604.nii.gz,1.5,200
+135_S_4598,2024-09-17,I10951232,Axial_HB_rsfMRI__Eyes_Open___MSV22_,work\nifti\135_S_4598.nii.gz,1.5,200
